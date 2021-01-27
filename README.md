@@ -223,8 +223,7 @@ APIهای معرفی شده در حال حاضر ترتیب خاصی ندارن�
  :moneybag:  | [API دیجی ارز](https://digiarz.com/api.php) | قیمت ارزهای رمزپایه مانند بیت‌کوین
  :moneybag:  | [API ارز](https://arzapi.com/) | سرویس API برای نرخ‌های دلار و طلا و ارزهای دیجیتال. این سرویس غیررایگان است
  :moneybag:  | [API ارز سانی‌وب](https://api.sunnyweb.ir/) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه
- :moneybag:  | [API نرخ ارز و طلا و سکه](http://nerkh-api.ir/guide.html) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه
- :free:  | [API نرخ لحظه ای ارز و طلا و سکه](https://currency.jafari.li/) |سرویس رایگان نرخ لحظه ای ارز و طلا و سکه
+ :moneybag:  | [API نرخ ارز و طلا و سکه](http://nerkh-api.ir/guide.html) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه 
  :moneybag:  | [API نرخ ارز لحظه ای](https://apieco.ir/api/finnotech-realtime-currency/) | سرویس جهت دریافت نرخ ارز به صورت لحظه ای
  :moneybag:  | [API نرخ ارز روزانه](https://apieco.ir/api/finnotech-daily-currency/) | سرویس جهت دریافت نرخ ارز به صورت روزانه
  :moneybag:  | [API نرخ سکه و فلزات گرانبها](https://apieco.ir/api/finnotech-gold-and-currency-markets/) | سرویس جهت دریافت نرخ ارز به صورت روزانه
